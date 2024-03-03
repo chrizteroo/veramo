@@ -1,0 +1,16 @@
+{
+    "method": {
+      "did:web": {
+        "driver": "web",
+        "options": {}
+      },
+      "did:peer": {
+        "driver": "jolo",
+        "options": {
+          "registry": "https://peer.decentralized-id.com",
+          "resolver": "https://peer.decentralized-id.com"
+        }
+      }
+    }
+  }
+  
